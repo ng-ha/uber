@@ -1,4 +1,4 @@
-# Uber clone with `React-Native` + `Typescript` 🚕
+## Uber clone with `React-Native` + `Typescript` 🚕
 
 ### Technologies ✨
 
