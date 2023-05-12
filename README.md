@@ -1,10 +1,10 @@
-# Uber clone with `React-Native` + `Typescrirpt` 🚕
+# Uber clone with `React-Native` + `Typescript` 🚕
 
 ### Technologies ✨
 
 - `React-Native`
 - `Expo`
-- `Typescrirpt`
+- `Typescript`
 - TailwindCss with `nativewind`
 - `@react-navigation`
 - `@reduxjs/toolkit`
